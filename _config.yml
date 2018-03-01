@@ -1,0 +1,49 @@
+url: "https://fossmec.github.io/"
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# Site settings
+title: FOSS MEC
+email: FOSS@mec.ac.in
+description: "FOSSCELL of MEC was made to inherit the technical workings of the College into a
+  more ordered working conditions under the club, and also to bring forth Open Source
+  culture by having enthusiasts working with the club on different interesting
+  softwares and projects, with people around the world."
+
+
+# Team names, titles and social links
+people:
+- name: Asif Ali
+  pic: 2
+  position: Chairman
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: #
+  - title: facebook
+    url: #
+  - title: stack-overflow
+    url: #
+  - title: bitbucket 
+    url: #
+  - title: github
+    url: http://github.com/FossMec
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Govt. Model Engineering College
+  - line: Thrikkakkara, Cochin
+  - line: Kerala
+
+# Build settings
+markdown: kramdown
+permalink: pretty
