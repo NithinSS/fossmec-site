@@ -1,0 +1,16 @@
+---
+title: Project Four
+subtitle: Yet Another Awesome Project
+layout: default
+modal-id: 4
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+project-date: 2017-07-15
+alt: image-alt
+project-start-date: April 2017
+leader: Leader4
+category: Machine Learning
+status: Beta
+description: This is the description of FOSS MEC project four. This is an awesome project.Life is so easier when i have the source code.
+
+---

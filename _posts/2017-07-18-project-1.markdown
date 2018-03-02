@@ -1,0 +1,16 @@
+---
+title: Project One
+subtitle: Yet Another Awesome Project
+layout: default
+modal-id: 1
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+project-date: 2017-07-18
+alt: image-alt
+project-start-date: April 2017
+leader: Leader1
+category: Web Development
+status: Final Release
+description: This is the description of FOSS MEC project one. This is an awesome project.Life is so easier when i have the source code.
+
+---
