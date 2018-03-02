@@ -5,17 +5,17 @@
     <description>FOSSCELL of MEC was made to inherit the technical workings of the College into a more ordered working conditions under the club, and also to bring forth Open Source culture by having enthusiasts working with the club on different interesting softwares and projects, with people around the world.</description>
     <link>https://fossmec.github.io//</link>
     <atom:link href="https://fossmec.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 01 Mar 2018 23:23:35 +0530</pubDate>
-    <lastBuildDate>Thu, 01 Mar 2018 23:23:35 +0530</lastBuildDate>
+    <pubDate>Fri, 02 Mar 2018 13:56:31 +0530</pubDate>
+    <lastBuildDate>Fri, 02 Mar 2018 13:56:31 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Dreams</title>
+        <title>Project One</title>
         <description>
 </description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://fossmec.github.io//web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://fossmec.github.io//web%20development/2014/07/18/project-1/</guid>
+        <pubDate>Tue, 18 Jul 2017 00:00:00 +0530</pubDate>
+        <link>https://fossmec.github.io//web%20development/2017/07/18/project-1/</link>
+        <guid isPermaLink="true">https://fossmec.github.io//web%20development/2017/07/18/project-1/</guid>
         
         
         <category>Web Development</category>
@@ -23,12 +23,51 @@
       </item>
     
       <item>
-        <title>Escape</title>
+        <title>Project Two</title>
         <description>
 </description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://fossmec.github.io//web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://fossmec.github.io//web%20development/2014/07/17/project-2/</guid>
+        <pubDate>Mon, 17 Jul 2017 00:00:00 +0530</pubDate>
+        <link>https://fossmec.github.io//app%20development/2017/07/17/project-2/</link>
+        <guid isPermaLink="true">https://fossmec.github.io//app%20development/2017/07/17/project-2/</guid>
+        
+        
+        <category>App Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Project Three</title>
+        <description>
+</description>
+        <pubDate>Sun, 16 Jul 2017 00:00:00 +0530</pubDate>
+        <link>https://fossmec.github.io//os%20development/2017/07/16/project-3/</link>
+        <guid isPermaLink="true">https://fossmec.github.io//os%20development/2017/07/16/project-3/</guid>
+        
+        
+        <category>OS Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Project Four</title>
+        <description>
+</description>
+        <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+        <link>https://fossmec.github.io//machine%20learning/2017/07/15/project-4/</link>
+        <guid isPermaLink="true">https://fossmec.github.io//machine%20learning/2017/07/15/project-4/</guid>
+        
+        
+        <category>Machine Learning</category>
+        
+      </item>
+    
+      <item>
+        <title>Project Five</title>
+        <description>
+</description>
+        <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+        <link>https://fossmec.github.io//web%20development/2017/07/15/project-5/</link>
+        <guid isPermaLink="true">https://fossmec.github.io//web%20development/2017/07/15/project-5/</guid>
         
         
         <category>Web Development</category>
@@ -36,54 +75,15 @@
       </item>
     
       <item>
-        <title>Golden</title>
+        <title>Project Six</title>
         <description>
 </description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://fossmec.github.io//web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://fossmec.github.io//web%20development/2014/07/16/project-3/</guid>
+        <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+        <link>https://fossmec.github.io//app%20development/2017/07/15/project-6/</link>
+        <guid isPermaLink="true">https://fossmec.github.io//app%20development/2017/07/15/project-6/</guid>
         
         
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Treehouse</title>
-        <description>
-</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://fossmec.github.io//web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">https://fossmec.github.io//web%20development/2014/07/15/project-4/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Round Icons</title>
-        <description>
-</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://fossmec.github.io//web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">https://fossmec.github.io//web%20development/2014/07/15/project-6/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Startup Framework</title>
-        <description>
-</description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://fossmec.github.io//web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://fossmec.github.io//web%20development/2014/07/14/project-5/</guid>
-        
-        
-        <category>Web Development</category>
+        <category>App Development</category>
         
       </item>
     
