@@ -1,0 +1,17 @@
+---
+title: Project Six
+subtitle: Awesome Project
+layout: default
+modal-id: 6
+date: 2017-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+project-date: 2017-07-13
+alt: image-alt
+project-start-date: April 2017
+leader: Leader6
+category: App Development
+status: Alpha
+description: This is the description of FOSS MEC project six. This is an awesome project. Life is so easier when i have the source code.
+
+---

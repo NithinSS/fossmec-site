@@ -1,0 +1,16 @@
+---
+title: Project Three
+subtitle: Yet Another Awesome Project
+layout: default
+modal-id: 3
+img: golden.png
+thumbnail: golden-thumbnail.png
+project-date: 2017-07-16
+alt: image-alt
+project-start-date: April 2017
+leader: Leader3
+category: OS Development
+status: Alpha
+description: This is the description of FOSS MEC project three. This is an awesome project.Life is so easier when i have the source code.
+
+---

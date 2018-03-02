@@ -1,0 +1,16 @@
+---
+title: Project Two
+subtitle: Yet Another Awesome Project
+layout: default
+modal-id: 2
+img: escape.png
+thumbnail: escape-thumbnail.png
+project-date: 2017-07-17
+alt: image-alt
+project-start-date: April 2017
+leader: Leader2
+category: App Development
+status: Final Release
+description: This is the description of FOSS MEC project two. This is an awesome project.Life is so easier when i have the source code.
+
+---
